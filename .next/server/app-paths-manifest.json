@@ -1,0 +1,11 @@
+{
+  "/page": "app/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/about/page": "app/about/page.js",
+  "/services/makeup/page": "app/services/makeup/page.js",
+  "/services/haircut-styling/page": "app/services/haircut-styling/page.js",
+  "/services/page": "app/services/page.js",
+  "/gallery/page": "app/gallery/page.js",
+  "/bridal/page": "app/bridal/page.js",
+  "/blogs/page": "app/blogs/page.js"
+}
